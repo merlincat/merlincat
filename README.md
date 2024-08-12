@@ -20,5 +20,6 @@ I have three main projects that showcase my skills and experience.
 
 ###📫 How to reach me:
   [In] - https://www.linkedin.com/in/nata-ozerna/
+
   [Email] - nataozernainf@gmail.com
 
