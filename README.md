@@ -19,6 +19,7 @@ I have three main projects that showcase my skills and experience.
 -[enerGym] (https://serggrishkov.github.io/enerGym/) - enerGym - a web application designed to help users find the exercises they need. Users can add exercises to their favorites, open detailed descriptions, and explore various other features to enhance their fitness routine. (HTML, CSS, JS)
 
 ###📫 How to reach me:
+
   [In] - https://www.linkedin.com/in/nata-ozerna/
 
   [Email] - nataozernainf@gmail.com
